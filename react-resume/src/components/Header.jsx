@@ -54,7 +54,7 @@ Pin - 560037</span>
           {/* LinkedIn */}
           <div className="mt-4">
             <a
-              href="https://www.linkedin.com/in/rahul-kumar"
+              href= "https://www.linkedin.com/in/rahul-kumar-796286224/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex [text-shadow:2px_2px_6px_rgba(0,0,0,0.25)] items-center gap-2 text-blue-600 font-medium hover:underline"
